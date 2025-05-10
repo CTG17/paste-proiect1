@@ -1,0 +1,44 @@
+body {
+  font-family: Tahoma, sans-serif;
+  background-color: #fffbe0;
+  color: #4e342e;
+  margin: 0;
+}
+
+header {
+  background-color: #f9c74f;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #7b2cbf;
+}
+
+main {
+  padding: 20px;
+}
+
+article {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px;
+}
+
+h1, h2 {
+  color: #d00000;
+}
+
+img {
+  display: block;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+footer {
+  background-color: #fefae0;
+  text-align: center;
+  padding: 10px;
+}
